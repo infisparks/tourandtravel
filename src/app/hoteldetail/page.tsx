@@ -13,15 +13,15 @@ export default function Page() {
                     <div className="swiper home2-banner-slider">
                         <div className="swiper-wrapper">
                             <div className="swiper-slide">
-                                <div className="banner-bg" style={{/* fix manual */ }}>
+                                <div className="banner-bg" style={{ backgroundImage: 'linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url("/images/package-breadcrumb-bg1.jpg")' }}>
                                 </div>
                             </div>
                             <div className="swiper-slide">
-                                <div className="banner-bg" style={{/* fix manual */ }}>
+                                <div className="banner-bg" style={{ backgroundImage: 'linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url("/images/package-breadcrumb-bg2.jpg")' }}>
                                 </div>
                             </div>
                             <div className="swiper-slide">
-                                <div className="banner-bg" style={{/* fix manual */ }}>
+                                <div className="banner-bg" style={{ backgroundImage: 'linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url("/images/breadcrumb-bg9.jpg")' }}>
                                 </div>
                             </div>
                         </div>
