@@ -1,0 +1,7 @@
+/* globals.css - reset default Next.js styles */
+@layer base {
+  body {
+    padding: 0;
+    margin: 0;
+  }
+}
